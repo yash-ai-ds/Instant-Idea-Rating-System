@@ -1,0 +1,14 @@
+# Firebase Secrets (DO NOT UPLOAD THESE)
+serviceAccountKey.json
+db_url.txt
+
+# Python & System Cache
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+
+# Virtual Environment
+venv/
+.venv/
+env/

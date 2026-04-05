@@ -1,0 +1,1 @@
+https://instant-idea-rating-system-default-rtdb.firebaseio.com/
